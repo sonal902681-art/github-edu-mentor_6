@@ -34,7 +34,7 @@ Edu_mentor/
 
 1. Clone the repository:
 
-git clone https://github.com/shivani-009/Edu_mentor.git
+git clone https://github.com/sonal902681-art/Edu_mentor.git
 
 2. Navigate to the project folder:
 
@@ -44,8 +44,8 @@ cd Edu_mentor/Edu_mentor
 
 Author
 
-👩‍💻 Shivani Vishwakarma
-GitHub: https://github.com/shivani-009
+👩‍💻 Sonal Singh
+GitHub: https://github.com/sonal902681-art
 
 
 ---
